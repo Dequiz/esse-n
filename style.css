@@ -1,0 +1,419 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(241, 241, 239);
+}
+.titulo{
+    text-align: center;
+    background-color: rgb(51, 75, 85);
+    color: white;
+    height: 50px;
+}
+.flor{
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
+.flor:hover{
+ border-color: rgb(115, 133, 141);
+}
+.regis{
+    position: relative;
+    top:100px;
+    left: 250px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.regis:hover{
+    background: rgb(31, 3 ,155);
+    color: rgb(255, 255, 255);
+}
+.iguape{
+    position: relative;
+    bottom:115px;
+    left: 600px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.iguape:hover{
+    background: rgb(0, 78, 10);
+    color: rgb(255, 255, 255);
+}
+.iguape-img{
+    position: relative;
+    bottom: 115px;
+    left: 490px;
+}
+.juquia-img{
+    position: relative;
+    bottom: 330px;
+    left: 850px;
+}
+.juquia{
+    position: relative;
+    bottom:330px;
+    left: 950px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.juquia:hover{
+    background-color: rgb(255, 174, 0);
+    color: white;
+}
+.eldorado{
+    position: relative;
+    bottom:325px;
+    left: 940px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.eldorado-img{
+    position: relative;
+    bottom: 325px;
+    left: 855px;
+}
+.eldorado:hover{
+    background-color: rgb(238, 255, 0);
+    color: white;
+}
+.cananeia{
+    position: relative;
+    bottom:540px;
+    left: 600px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.cananeia-img{
+    position: relative;
+    bottom: 538px;
+    left: 500px;
+    width: 40px;
+    height: 40px;
+}
+.cananeia:hover{
+    background-color: rgb(104, 12, 9);
+    color: white;
+}
+.pariquera{
+    position: relative;
+    bottom: 755px;
+    left: 245px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.pariquera-img{
+    position: relative;
+    bottom: 755px;
+    left: 150px;
+}
+.pariquera:hover{
+    background-color: rgb(0, 255, 64);
+    color: white;
+}
+.miracatu{
+    position: relative;
+    bottom: 751px;
+    left: 245px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.miracatu-img{
+    position: relative;
+    bottom: 750px;
+    left: 150px;
+}
+.miracatu:hover{
+    background-color: rgb(119, 0, 255);
+    color: white;
+}
+.ilha{
+    position: relative;
+    bottom: 965px;
+    left: 570px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.ilha-img{
+    position: relative;
+    bottom: 965px;
+    left: 500px;
+}
+.ilha:hover{
+        background-color: rgb(184, 166, 166);
+        color: white;
+}
+.sete{
+    position: relative;
+    bottom: 1180px;
+    left: 930px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.sete-img{
+    position: relative;
+    bottom: 1180px;
+    left: 845px;
+}
+.sete:hover{
+    background-color: brown;
+    color: white;
+}
+.jacupiranga{
+    position: relative;
+    bottom: 1176px;
+    left: 925px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.jacupiranga-img{
+    position: relative;
+    bottom: 1175px;
+    left: 845px;
+}
+.jacupiranga:hover{
+        background-color: rgb(223, 216, 216);
+        color: white;
+}
+.cajati{
+    position: relative;
+    bottom: 1391px;
+    left: 610px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.cajati-img{
+    position: relative;
+    bottom: 1390px;
+    left: 500px;
+
+}
+.cajati:hover{
+    background-color: olive;
+    color: white;
+}
+.pedro{
+    position: relative;
+    bottom: 1605px;
+    left: 215px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.pedro-img{
+    position: relative;
+    bottom: 1605px;
+    left: 150px;
+}
+.pedro:hover{
+    background-color: rgb(168, 47, 138) ;
+    color: white;
+}
+.itariri{
+    position: relative;
+    bottom: 1605px;
+    left: 265px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.itariri-img{
+    position: relative;
+    bottom: 1605px;
+    left: 150px;
+}
+.itariri:hover{
+    background-color: coral;
+    color: white;
+}
+.barra{
+    position: relative;
+    bottom: 1820px;
+    left: 570px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.barra-img{
+    position: relative;
+    bottom: 1820px;
+    left: 500px;
+}
+.barra:hover{
+    background-color: darkblue;
+    color: white;
+}
+.iporanga{
+    position: relative;
+    bottom: 2035px;
+    left: 935px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.iporanga-img{
+    position: relative;
+    bottom: 2035px;
+    left: 845px;
+}
+.iporanga:hover{
+    background-color: peru;
+    color: white;
+}
+.apiai{
+    position: relative;
+    bottom: 2035px;
+    left: 960px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.apiai-img{
+    position: relative;
+    bottom: 2035px;
+    left: 845px;
+}
+.apiai:hover{
+    background-color: rgb(205, 63, 193);
+    color: white;
+}
+.itaoca{
+    position: relative;
+    bottom: 2250px;
+    left: 610px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.itaoca-img{
+    position: relative;
+    bottom: 2250px;
+    left: 500px;
+}
+.itaoca:hover{
+    background-color:black ;
+    color: white;
+}
+.ribeira{
+    position: relative;
+    bottom: 2465px;
+    left: 265px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.ribeira-img{
+    position: relative;
+    bottom: 2465px;
+    left: 150px;
+}
+.ribeira:hover{
+    background-color: greenyellow;
+    color: white;
+}
+.chapeu{
+    position: relative;
+    bottom: 2465px;
+    left: 380px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.chapeu-img{
+    position: relative;
+    bottom: 2465px;
+    left: 320px;
+}
+.chapeu:hover{
+    background-color: darkcyan;
+    color: white;
+}
+.itapi{
+    position: relative;
+    bottom: 2680px;
+    left: 750px;
+    font-size: 25px;
+    background: rgb(51, 75, 85);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 60px;
+}
+.itapi-img{
+    position: relative;
+    bottom: 2680px;
+    left: 675px;
+}
+.itapi:hover{
+    background-color: rgb(255, 0, 191);
+    color: white;
+}

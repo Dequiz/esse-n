@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.regis{
+   background-color: rgba(10, 207, 197, 0.445);
+position: relative;
+top: 49px;
+}
+.name{
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(10, 207, 197);
+    color: white;
+}
+.iguape{
+    position: relative;
+    display: inline-block;
+    width: 430px;
+    top: 49px;
+    left: 15px;
+}
+.back{
+    position: absolute;
+    top: 0px;
+    width: 70px;
+    background: rgb(72, 175, 170);
+    color: white;
+    height: 58px;
+    border:none
+}
+.back:hover{
+    background: rgb(78, 250, 241);
+}
